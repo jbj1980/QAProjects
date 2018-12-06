@@ -26,6 +26,7 @@ public class TestConfig{
 	public static String mysqluserName = "root";
 	public static String mysqlpassword = "selenium";
 	public static String mysqlurl = "jdbc:mysql://localhost:3306/acs";
+	public static String gittest = "localhost:3306/acs";
 	
 	
 	
